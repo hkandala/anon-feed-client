@@ -5,3 +5,4 @@ tasks:
       npm run start
 ports:
   - port: 8088
+    onOpen: open-browser
