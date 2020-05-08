@@ -54,7 +54,7 @@ function showSessionContent() {
 
 async function submitFeedback() {
   let feedbackMessage = encodeURIComponent(feedbackTextArea.value);
-  let submitFeedbackApi = apiBaseUrl + "/session/" + sessionId + "/feedback/add/?msg=" + feedbackMessage;
+  let submitFeedbackApi = apiBaseUrl + "session/" + sessionId + "/feedback/add/?msg=" + feedbackMessage;
   await fetch(submitFeedbackApi);
   window.location.reload();
 }
