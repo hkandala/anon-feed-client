@@ -1,4 +1,4 @@
-let apiBaseUrl = "http://localhost:5000/"
+let apiBaseUrl = "https://anon-feed-api.herokuapp.com/"
 
 let createApi = apiBaseUrl + "session/create/"
 
