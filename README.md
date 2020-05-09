@@ -10,4 +10,4 @@ branch: [boilerplate](https://github.com/hkandala/anon-feed-client/tree/boilerpl
 ### Final Version:
 branch: [final](https://github.com/hkandala/anon-feed-client/tree/final)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/https://github.com/hkandala/anon-feed-client/blob/final/index.html)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/hkandala/anon-feed-client/blob/final/index.html)
