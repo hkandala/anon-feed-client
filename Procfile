@@ -1,1 +1,1 @@
-web: npm run start
+web: http-server --cors -c-1 -p $PORT
